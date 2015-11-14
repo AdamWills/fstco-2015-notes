@@ -99,4 +99,10 @@
 * do modes of consumption change during the time of day?
 * user satisfaction = perceived time and effort they expect to spend + presentation & variety of content
 
+## ES6 Easy Wins
+* let = block scoping the variables (for loop variables only exist in the loop)
+* template strings => let string = ``Hi namy name is ${name} and I lve in Hamilton``; (notice the back-ticks)
+* `let add = (a,b) => a + b;` implicit return; one line function
+* Spread operators!
+* For React components, don't extend other custom components; only extend from React.Component
 
