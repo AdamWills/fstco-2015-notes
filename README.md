@@ -83,4 +83,20 @@
 
 * "How Many Saturdays do you get?" blogpost
 * "Stop treating your employees like factory workers"
-* 
+
+
+## Rethinking Digital News Consumption
+* More users coming from mobile than anywhere else
+* "Designing for the 24 hour experience" (Jon Setzen - Creative Director from Media Temple)
+* "Jobs to be done" - Paul Adams
+* Do users read your content the same way on different devices
+* "Design containers independant of layout." Konstantin Weiss
+* "We moved away from thinking about specific pages on the site and how they might be filled with content"
+* "Sometimes you need to make things until you see the thing you really need to make." - @WoodyZuill
+* Jobs to be done instead of Personas - could be very different personas, but still require the same "job"
+* surveyed 1000 people. Came up with 3 "modes of consumption" (jobs). Update (what's going on?). Extend (learn more about the story). Discover (want to see something I'm interested in)
+* Added time to jobs/modes of consumption (update=>short; extend=>more; discover=>most)
+* do modes of consumption change during the time of day?
+* user satisfaction = perceived time and effort they expect to spend + presentation & variety of content
+
+
