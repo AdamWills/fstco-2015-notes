@@ -106,3 +106,21 @@
 * Spread operators!
 * For React components, don't extend other custom components; only extend from React.Component
 
+## Adventures in Product Development
+* Schedule time into development to allow for learning
+* Code consistency, emphasize commenting, helpful git commit message
+** Update obsolete comments, agree on structure and formatting with your team
+** Code quality cuts down on WTF moments, Bugs
+
+### What we learned
+* A foundation is curicial. Set project parameters and expectations.
+* Detailed client-developer meetings - mapping out exactly how certain features would work
+* Documentation = security, especially in dealing with turnover
+* Testing is everything.
+* Developers testing themselves is NOT good enough
+* Check out "The Clean Code" by "Uncle" Bob Martin
+* Their business can fail if their product fails
+* Refactor when you can, wherever you can
+github.com/kristanelise
+
+
